@@ -23,23 +23,23 @@ export default function AboutUs() {
         </p>
         <div className="mt-10 max-w-2xl">
           <p>
-          At Solutions, we understand the unique challenges faced by hospitality businesses, which is why we've dedicated ourselves to providing tailored software solutions that address your specific needs. Whether you're a boutique hotel, a bustling restaurant, or a sprawling resort, our team is here to help streamline your operations and elevate your business to new heights.
+          At Solutions, we understand the unique challenges faced by hospitality businesses, which is why we&apos;ve dedicated ourselves to providing tailored software solutions that address your specific needs. Whether you&apos;re a boutique hotel, a bustling restaurant, or a sprawling resort, our team is here to help streamline your operations and elevate your business to new heights.
           </p>
           <br></br>
           <p>
-          Our commitment to excellence extends beyond just delivering software - it's about building lasting relationships with our clients. From initial consultation to ongoing support, we're here for you every step of the way, ensuring that you have the tools and resources you need to succeed.
+          Our commitment to excellence extends beyond just delivering software - it&apos;s about building lasting relationships with our clients. From initial consultation to ongoing support, we&apos;re here for you every step of the way, ensuring that you have the tools and resources you need to succeed.
           </p>
           <ul role="list" className="mt-8 max-w-xl space-y-8 text-gray-600">
             <li className="flex gap-x-3">
               <ChatBubbleLeftRightIcon className="mt-1 h-5 w-5 flex-none text-solutions-blue-600" aria-hidden="true" />
               <span>
-                <strong className="font-semibold text-gray-900">Customer Service:</strong> Our dedicated support team ensures you're never left in the dark, providing assistance whenever you need it.
+                <strong className="font-semibold text-gray-900">Customer Service:</strong> Our dedicated support team ensures you&apos;re never left in the dark, providing assistance whenever you need it.
               </span>
             </li>
             <li className="flex gap-x-3">
               <ShieldCheckIcon className="mt-1 h-5 w-5 flex-none text-solutions-blue-600" aria-hidden="true" />
               <span>
-                <strong className="font-semibold text-gray-900">Reliability:</strong> With a proven track record spanning over two decades, we're the dependable partner your business can rely on.
+                <strong className="font-semibold text-gray-900">Reliability:</strong> With a proven track record spanning over two decades, we&apos;re the dependable partner your business can rely on.
               </span>
             </li>
             <li className="flex gap-x-3">
@@ -50,7 +50,7 @@ export default function AboutUs() {
             </li>
           </ul>
           <p className="mt-8">
-          With Solutions by your side, you can trust that you're getting more than just a software provider - you're getting a partner who is invested in your success. Join the hundreds of businesses who have already experienced the Solutions difference and discover what we can do for you.
+          With Solutions by your side, you can trust that you&apos;re getting more than just a software provider - you&apos;re getting a partner who is invested in your success. Join the hundreds of businesses who have already experienced the Solutions difference and discover what we can do for you.
           </p>
       </div>
     </div>
